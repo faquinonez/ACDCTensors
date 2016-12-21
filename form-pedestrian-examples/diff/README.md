@@ -1,6 +1,4 @@
 * README
-
-
 How does it run under FORM? When the preprocessor encounters the #include diff.h, 
 it inserts the contents of the file into the input. The #- instruction means that 
 the listing of the input, when running the program, will be turned off until 
